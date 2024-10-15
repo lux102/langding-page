@@ -1,0 +1,50 @@
+.main {
+    min-height: 100vh;
+}
+
+.project-cap:hover h5 a {
+    color: #fff;
+}
+
+.single-project:hover h5 a {
+    color: #fff;
+}
+
+.admin-project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.text-danger {
+    color: #df1212;
+}
+
+.project-cap {
+    height: 200px;
+}
+
+.list-style-circle {
+    list-style-type: circle;
+}
+
+.list-style-square {
+    list-style-type: square;
+}
+.p-20 {
+    padding: 20px;
+}
+.btn-delete {
+    background-color: transparent;
+    border: none;
+    color: red;
+}
+.hidden {
+    display: none;
+}
+.single-team .team-img {
+    height: 380px;
+}
+.cursor-pointer {
+    cursor: pointer;
+}
